@@ -1,0 +1,15 @@
+{
+  "name": "koa-reverse-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "神代綺凛 <i@loli.best>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "koa": "^2.13.1",
+    "koa-proxies": "^0.12.1"
+  }
+}
